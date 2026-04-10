@@ -12,8 +12,6 @@ This project demonstrates how to structure a game using ECS:
 
 All game logic is implemented using functional techniques like **map**, **filter**, and **reduce**.
 
----
-
 ##  Features
 
 - ECS-based architecture
@@ -32,14 +30,10 @@ All game logic is implemented using functional techniques like **map**, **filter
 - **P** – Pause
 - **R** – Restart
 
----
-
 ##  Tech Stack
 
 - JavaScript (ES6 modules)
 - HTML5 Canvas
-
----
 
 ##  Project Structure
 
@@ -50,8 +44,6 @@ All game logic is implemented using functional techniques like **map**, **filter
 - main.js # game loop and system composition
 - input.js # keyboard input handling
 - render.js # drawing on canvas
-
----
 
 ##  How It Works
 
@@ -65,16 +57,12 @@ Example concept:
 
 - world -> movementSystem -> spawnSystem -> collisionSystem -> render
 
----
-
 ##  Future Improvements
 
 - Sound effects
 - Better graphics / animations
 - Mobile support
 - Score saving (backend)
-
----
 
 ##  Demo
 
