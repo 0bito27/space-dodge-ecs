@@ -22,8 +22,6 @@ All game logic is implemented using functional techniques like **map**, **filter
 - Dynamic difficulty scaling
 - Pause and restart system
 
----
-
 ##  Controls
 
 - **WASD / Arrow keys** – Move
